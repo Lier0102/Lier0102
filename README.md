@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D9CC8&title_bg=%238C7E7E&icon=exercism.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EA%B0%9D&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLier0102&count_bg=%233D9CC8&title_bg=%238C7E7E&icon=exercism.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EA%B0%9D&edge_flat=false"/></a>
 
 <!--
 **Lier0102/Lier0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
