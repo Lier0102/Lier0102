@@ -11,6 +11,8 @@
 - System Architecture
 - Introducing
 
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lier0102)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align=center>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minehammer26@gmail.com)](mailto:minehammer26@gmail.com)
