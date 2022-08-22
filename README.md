@@ -4,7 +4,7 @@
 </div>
 
 ### Who wants to become ``` cool ``` developer
-- Solved 20+ problems in dreamhack
+- Solved 50+ problems in dreamhack
 
 ### Interest
 - Web Hacking
