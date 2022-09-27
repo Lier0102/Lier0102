@@ -18,4 +18,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minehammer26@gmail.com)](mailto:minehammer26@gmail.com)
 </div>
 
+[![Abypass#1663](https://discord.c99.nl/widget/theme-3/898341269389074533.png)](https://discord.c99.nl)
+
 <https://velog.io/@wdream>
