@@ -1,23 +1,24 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLier0102&count_bg=%233D9CC8&title_bg=%238C7E7E&icon=exercism.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EA%B0%9D&edge_flat=false"/></a>
+<h1 align="center">Hi 👋 I'm Lier0102</h1>
+<h3 align="center">I'm a ["c", "Python", "Sus"] developer from the Korea</h3>
 
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=Lier0102&label=Profile%20views&color=5c12df&style=flat" alt="Lier0102" />
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=5c12df&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Lier0102" alt="Profile Stars"></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=5c12df&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Lier0102" alt="Profile Forks"></a>
+</p>
 
-</div>
+- 🔭 최근에 진행 했던 프로젝트 : **Pygrabber**
 
-### Who wants to become ``` cool ``` developer
-- Solved 50+ problems in dreamhack
+- 🌱 공부중인것 :  **Assmebly** 과 **Python**
 
-### Interest
-- Web Hacking
-- System Architecture
-- Introducing
+- 👨‍💻 나의 모든 프로젝트가 있는 곳 : [Github](https://github.com/Lier0102?tab=repositories)
 
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Lier0102)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align=center>
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minehammer26@gmail.com)](mailto:minehammer26@gmail.com)
-</div>
+- 📫 연략/문의는 깃허브 팔로우 or 디스코드 서버 참가 : [discord server](https://discord.gg/mtnawaPkbz)
 
 [![Abypass#1663](https://discord.c99.nl/widget/theme-3/898341269389074533.png)](https://discord.c99.nl)
 
 <https://velog.io/@wdream>
+<div align=center>
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minehammer26@gmail.com)](mailto:minehammer26@gmail.com)
+</div>
