@@ -15,6 +15,9 @@
 
 - 📫 연략/문의는 깃허브 팔로우 or 디스코드 서버 참가 : [discord server](https://discord.gg/mtnawaPkbz)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lier0102&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lier0102&theme=dark&background=000000)](https://git.io/streak-stats)   
+
 [![Abypass#1663](https://discord.c99.nl/widget/theme-3/898341269389074533.png)](https://discord.c99.nl)
 
 <https://velog.io/@wdream>
