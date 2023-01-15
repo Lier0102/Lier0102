@@ -17,10 +17,11 @@
 
 - 📫 연략/문의는 디스코드 : Cloud#1663
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lier0102&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lier0102&langs_count=10)](https://github.com/Lier0102/github-readme-stats)  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lier0102&theme=dark&background=000000)](https://git.io/streak-stats)   
 
 [![Abypass#1663](https://discord.c99.nl/widget/theme-3/898341269389074533.png)](https://discord.c99.nl)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beluga)](https://solved.ac/beluga/)
 
 <https://velog.io/@wdream>
 <div align=center>
