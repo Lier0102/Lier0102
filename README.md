@@ -15,7 +15,7 @@
 
 - 👨‍💻 나의 모든 프로젝트가 있는 곳 : [Github](https://github.com/Lier0102?tab=repositories)
 
-- 📫 연략/문의는 디스코드 : Cloud#1663
+- 📫 연략/문의는 디스코드 : 0x617264#1663
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lier0102&langs_count=10)](https://github.com/Lier0102/github-readme-stats)  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lier0102&theme=dark&background=000000)](https://git.io/streak-stats)   
