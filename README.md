@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋 I'm Lier0102</h1>
-<h3 align="center">I'm a ["c", "Python", "Sus", "pwnable"] human from the Korea(???)</h3>
+<h1 align="center">Handle : Lier0102</h1>
+<h3 align="center">나무를 손을 캐면, 손에 심각한 부상을 입을 수 있습니다. 대신, 도끼를 사용해 보는 건 어떤가요?</h3>
 
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=Lier0102&label=Profile%20views&color=5c12df&style=flat" alt="Lier0102" />
