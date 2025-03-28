@@ -9,13 +9,13 @@
 
 - 🔭 최근에 진행 했던 프로젝트 : **Pygrabber FUD**
 
-- ⏱️ 지금 진행 중인 프로젝트 : **Hydron Nuker**
+- ⏱️ 지금 진행 중인 프로젝트 : **~~경평급식~~ 경소고 급식 인사이드**
 
-- 🌱 공부중인것 :  **Assmebly** 와 **Python**
+- 🌱 공부중인것 : 감다뒤....포너블이나 공부해야겠습니다
 
 - 👨‍💻 나의 모든 프로젝트가 있는 곳 : [Github](https://github.com/Lier0102?tab=repositories)
 
-- 📫 연략/문의는 디스코드 : 0x617264#1663
+- 📫 연략/문의는 디스코드 : 7011663, 또는 떠돌이상인
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lier0102&langs_count=10)](https://github.com/Lier0102/github-readme-stats)  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lier0102&theme=dark&background=000000)](https://git.io/streak-stats)   
