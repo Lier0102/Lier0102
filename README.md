@@ -8,9 +8,6 @@
 
 - 하는 거 딱히 없음
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lier0102&langs_count=10)](https://github.com/Lier0102/github-readme-stats)  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lier0102&theme=dark&background=000000)](https://git.io/streak-stats)   
-
 [![Abypass#1663](https://discord.c99.nl/widget/theme-3/898341269389074533.png)](https://discord.c99.nl)
 <div align=center>
 
