@@ -8,6 +8,10 @@
 
 - 하는 거 딱히 없음
 
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/neam)
+
 [![Abypass#1663](https://discord.c99.nl/widget/theme-3/898341269389074533.png)](https://discord.c99.nl)
 <div align=center>
 
