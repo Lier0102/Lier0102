@@ -12,6 +12,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=neam)](https://solved.ac/neam)
 
+[![bankai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lier0102)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Abypass#1663](https://discord.c99.nl/widget/theme-3/898341269389074533.png)](https://discord.c99.nl)
 <div align=center>
 
