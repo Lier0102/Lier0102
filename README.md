@@ -19,5 +19,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lier0102&langs_count=8)
 <div align=center>
 
+![Dreamhack Stats](https://dreamhack-readme-stats.vercel.app/api/stats?username=bankai)
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minehammer26@gmail.com)](mailto:minehammer26@gmail.com)
 </div>
