@@ -9,7 +9,7 @@
 - 밀린 일 해치우는 중
 
 
-[![solved.ac stats](https://solvedac-readme-stats.vercel.app/api?handle=neam)](https://github.com/kookjd7759/solvedac-readme-stats)
+[![solved.ac stats v2 streak](https://solvedac-readme-stats.vercel.app/api?handle=neam&v=2&streak=true)](https://github.com/kookjd7759/solvedac-readme-stats)
 
 [![Abypass#1663](https://discord.c99.nl/widget/theme-3/898341269389074533.png)](https://discord.c99.nl)
 
