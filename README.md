@@ -16,9 +16,6 @@
 pwn/rev 웬만한 거 다
 
 <p align="center">
-  <a href="https://github.com/kookjd7759/solvedac-readme-stats"><img src="https://solvedac-readme-stats.vercel.app/api?handle=neam&v=2&streak=true" alt="solved.ac" /></a>
-</p>
-<p align="center">
   <img src="https://dreamhack-readme-stats.vercel.app/api/stats?username=BANKAI" alt="Dreamhack Stats" />
 </p>
 <p align="center">
